@@ -14,11 +14,11 @@ function Home2() {
     <Container fluid className="home-about-section" id="about">
       <Container>
         <Row>
-          <Col md={8} className="home-about-description">
+          <Col md={12} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              WELCOME TO MY <span className="purple"> HOMEPAGE </span>
             </h1>
-            <p className="home-about-body">
+            {/* <p className="home-about-body">
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
@@ -50,13 +50,15 @@ function Home2() {
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
-            </p>
+            </p> */}
+            <p className="home-about-body"><b className="purple">Dr. Pallawi</b> is currently a PHD Scholar in the Department of Mathematics 
+              at the Indian Institute of Technology, Dhanbad under the supervision of <b className="purple">Prof. Ritumoni Sarma</b>. Her research interests include algebraic coding theory and cryptography.</p>
           </Col>
-          <Col md={4} className="myAvtar">
+          {/* <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
             </Tilt>
-          </Col>
+          </Col> */}
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
@@ -67,7 +69,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/PallawiBharti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +79,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://github.com/PallawiBharti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +89,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://github.com/PallawiBharti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +99,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://github.com/PallawiBharti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

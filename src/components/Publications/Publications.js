@@ -1,10 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
+import PublicationsCard from "./PublicationsCard";
 
-function About() {
+function Publications() {
   return (
     <Container fluid className="about-section">
       <Particle />
@@ -19,9 +19,9 @@ function About() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Know Who <strong className="purple">I'M</strong>
+              My <strong className="purple">Publications</strong>
             </h1>
-            <Aboutcard />
+            <PublicationsCard />
           </Col>
           <Col
             md={5}
@@ -36,4 +36,4 @@ function About() {
   );
 }
 
-export default About;
+export default Publications;
