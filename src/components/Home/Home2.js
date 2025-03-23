@@ -49,8 +49,8 @@ function Home2() {
                 <b className="purple"> React.js and Next.js</b>
               </i>
             </p> */}
-            <p className="home-about-body"><b className="purple">Dr. Pallawi</b> is currently a PHD Scholar in the Department of Mathematics 
-              at the Indian Institute of Technology, Dhanbad under the supervision of <b className="purple">Prof. Ritumoni Sarma</b>. Her research interests include algebraic coding theory and cryptography.</p>
+            <p className="home-about-body"><b className="purple">Pallawi Bharti</b> is currently pursuing her Ph.D. in the Department of Mathematics at the 
+            Indian Institute of Technology (IIT), Dhanbad, under the guidance of <b className="purple">Prof. Mritunjay Kumar Singh</b>. Her research primarily focuses on Hydrodynamic stability.</p>
           </Col>
           {/* <Col md={4} className="myAvtar">
             <Tilt>
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/PallawiBharti"
+                  href="https://github.com/pallawi-bharti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/PallawiBharti"
+                  href="https://github.com/pallawi-bharti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/PallawiBharti"
+                  href="https://github.com/pallawi-bharti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/PallawiBharti"
+                  href="https://github.com/pallawi-bharti"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

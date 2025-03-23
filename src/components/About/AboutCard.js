@@ -22,7 +22,7 @@ function AboutCard() {
             <li className="about-activity">
               <BsForward  /><span className="purple"> PHD: </span> IIT(ISM) Dhanbad
             </li>
-            <li className="about-activity">
+            {/* <li className="about-activity">
               <BsForward  /><span className="purple"> M.SC: </span> IIT(ISM) Dhanbad
             </li>
             <li className="about-activity">
@@ -33,7 +33,7 @@ function AboutCard() {
             </li>
             <li className="about-activity">
               <BsForward  /><span className="purple"> Matriculation: </span> IIT(ISM) Dhanbad
-            </li>
+            </li> */}
           </ul>
 
           {/* <p style={{ color: "rgb(155 126 172)" }}>

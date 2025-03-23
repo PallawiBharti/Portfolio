@@ -8,7 +8,8 @@ function PublicationsCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
         <ul>
-            <li className="about-activity">
+            <h2 className="purple">Coming Soon...</h2>
+            {/* <li className="about-activity">
               <BsForward /><span className="purple"> PHD: </span> IIT(ISM) Dhanbad
             </li>
             <li className="about-activity">
@@ -22,7 +23,7 @@ function PublicationsCard() {
             </li>
             <li className="about-activity">
               <BsForward /><span className="purple"> Matriculation: </span> IIT(ISM) Dhanbad
-            </li>
+            </li> */}
           </ul>
 
         </blockquote>
